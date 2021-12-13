@@ -1,0 +1,13 @@
+table{
+    border-spacing: 0;
+    border: solid black 1px;
+  }
+  th{
+    border: solid black 1px;
+  }
+  td{
+    border:solid black 1px;
+  }
+  tfoot{
+    border:solid black 1px;
+  }
